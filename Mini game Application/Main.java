@@ -1,7 +1,5 @@
 /*
  * Ryan McDonald
- * CPSC 223-J
- * Final Project
  * 11/24/2019
  * This java application is a mini game application that uses JFrames to create a few
  * different minigames that can be played. The current games in the application are
