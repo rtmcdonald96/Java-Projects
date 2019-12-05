@@ -35,7 +35,7 @@ public class TicTacToe extends JFrame implements ActionListener{
 		JLabel scoreboard;
 		JLabel p1Name;
 		JLabel p2Name;
-		
+			
 	//Text field to display player score
 		JLabel p1Score;
 		JLabel p2Score;
