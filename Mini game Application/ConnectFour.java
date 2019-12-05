@@ -11,7 +11,7 @@ public class ConnectFour extends JFrame implements ActionListener {
 	private final int COL = 7;
 	private final int ROW = 6;
 	private final int GAP = 0;
-
+	
 //Variables to keep track of wins, turns, and player name
 	private int p1wins;
 	private int p2wins;
