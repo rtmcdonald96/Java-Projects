@@ -31,7 +31,7 @@ public class MenuOptions extends JFrame implements ActionListener{
 	//Strings
 	String p1Name;
 	String p2Name;
-
+	
 	MenuOptions(){
 		super("Mini games");
 		setSize(FRAME_WIDTH,FRAME_HEIGHT);
